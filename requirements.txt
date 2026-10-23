@@ -1,0 +1,4 @@
+numpy>=1.25
+pygame-ce>=2.4
+Pillow>=10.0
+PySide6>=6.5
